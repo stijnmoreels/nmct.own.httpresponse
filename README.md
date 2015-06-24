@@ -3,7 +3,7 @@ A Http Response Helper for your API
 
 Sample API
 
-´´´
+```
 public class PersonApiController : ApiController
 {
   public HttpResponseMessage Get()
@@ -18,4 +18,4 @@ public class PersonApiController : ApiController
     }
   }
 }
-´´´
+```
